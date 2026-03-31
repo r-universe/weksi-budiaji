@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ddp"]
 	path = ddp
-	url = https://github.com/cran/ddp
+	url = https://github.com/weksi-budiaji/ddp
 [submodule "kmed"]
 	path = kmed
 	url = https://github.com/cran/kmed
